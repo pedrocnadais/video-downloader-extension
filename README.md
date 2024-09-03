@@ -1,11 +1,11 @@
 # **Video Downloader Extension**
 
-This is a Google Chrome extension that identifies and records videos from the active tab, allowing you to download the video directly to your macOS downloads folder.
+This is a Google Chrome extension that identifies and records videos from the active tab, allowing you to download the video directly to your downloads folder.
 
 ## **Features**
 
 - **Identifies videos** on the active browser tab.
-- **Records the playing video** and starts downloading automatically when the video finishes.
+- **Records the playing video** and stops downloading automatically when the video finishes.
 - The recording is automatically saved to the **downloads folder**, using the page title as the file name.
 
 ## **Troubleshooting**
