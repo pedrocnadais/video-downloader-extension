@@ -1,3 +1,32 @@
+body {
+ width: 100px;
+ height: 92px;
+ text-align: center;
+ padding-bottom: 30px;
+}
+
+.outer-div {
+ outline: 7px solid rgb(122, 120, 120);
+ background-color: rgba(214, 212, 211, 0.671);
+ margin-top: -4px;
+ margin-left: -3px;
+ margin-right: -3px;
+}
+
+.border-div {
+ padding: 5px 10px 5px 10px;
+}
+
+.welcome-p {
+ margin-top: -2px;
+}
+
 #download-button {
- border-radius: 15%;
+ border-radius: 5%;
+ background-color: green;
+ color: white;
+}
+
+.createdby-p {
+ margin-bottom: -2%;
 }
