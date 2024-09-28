@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Video Downloader",
   "version": "1.0",
-  "description": "Download videos from any page you want. For now all files are downloaded as WEBM",
+  "description": "Download or record videos from any page you want. For now all files are downloaded as WEBM",
   "permissions": ["activeTab", "scripting", "tabs"],
   "background": {
     "service_worker": "background.js"
